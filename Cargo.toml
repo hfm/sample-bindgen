@@ -1,0 +1,9 @@
+[package]
+name = "sample-bindgen"
+version = "0.1.0"
+authors = ["OKUMURA Takahiro <hfm.garden@gmail.com>"]
+
+[build-dependencies]
+bindgen = "0.26.3"
+
+[dependencies]
